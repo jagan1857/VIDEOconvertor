@@ -49,7 +49,7 @@ async def notice(event):
 async def source(event):
     await event.edit(source_text,
                     buttons=[[
-                         Button.url("JAGAN MOHAN", url="https://t.me/@MR_JAGANMOHAN"),
+                         Button.url("JAGAN MOHAN", url="https://t.me/MR_JAGANMOHAN"),
                          Button.url("FOR SUPPORT ", url="https://t.me/+cTsBLwDFiE44NzY1")]])
                          
                     
