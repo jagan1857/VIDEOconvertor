@@ -29,7 +29,7 @@ help_text = """**v1.4**
 
 source_text = "**Contact The Developer**"
 
-DEV = "https://t.me/MR_JAGANMOHAN"
+DEV = "@MR_JAGANMOHAN"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
