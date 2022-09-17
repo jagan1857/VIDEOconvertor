@@ -1,7 +1,7 @@
 #Don't be a thief by stealing other's Hardwork, it took time and effort to make this repo.
 #Respect my work by not making any changes here.
 
-START_TEXT = "Hello, This is a Telegram High Efficiency Video Compress Bot
+START_TEXT = "Hello This is a Telegram High Efficiency Video Compress Bot
 Please send me any Telegram big video/video-file I will compress it as s small file without loss of quality!! 
 I can also Rename,Trim and can also generate screenshot for the file you sent.
 
