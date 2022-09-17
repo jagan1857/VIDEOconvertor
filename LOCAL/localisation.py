@@ -1,7 +1,15 @@
 #Don't be a thief by stealing other's Hardwork, it took time and effort to make this repo.
 #Respect my work by not making any changes here.
 
-START_TEXT = "Send me any file to see my power🔥."
+START_TEXT = "Hello, 
+
+This is a Telegram High Efficiency Video Compress Bot. 
+
+Please send me any Telegram big video/video-file I will compress it as s small file without loss of quality!! 
+
+I can also Rename,Trim and can also generate screenshot for the file you sent.
+
+ Join My Updates Channel to use ME 😎 🤭."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
@@ -33,13 +41,13 @@ DEV = "https://t.me/MR_JAGANMOHAN"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
-JPG = 'https://telegra.ph/file/402ef4185d6bb3e4677a8.jpg'
+JPG = 'https://telegra.ph/file/402ef4185d6bb3e4677a8.jpg"
 
-JPG0 = 'https://telegra.ph/file/e29e579b25c2cf0341baf.jpg'
+JPG0 = "https://telegra.ph/file/e29e579b25c2cf0341baf.jpg"
 
 JPG2 = "LOCAL/20211215_165751.jpg"
 
 JPG3 = "LOCAL/PicsArt_12-16-08.57.15.jpg"
 
-JPG4 = 'https://telegra.ph/file/e29e579b25c2cf0341baf.jpg'
+JPG4 = "https ://telegra.ph/file/e29e579b25c2cf0341baf.jpg"
 
