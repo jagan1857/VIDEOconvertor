@@ -14,11 +14,11 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "f28fbd1367ddda2e6f863c3129323743"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "13115322"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
@@ -26,45 +26,45 @@
         },
         "AUTH_USERS": {
             "description": "Bot owner's UserID.",
-            "value": ""
+            "value": "1459910748"
         },
         "HEROKU_API": {
             "description": "Your heroku app name(optional, add only if you want to restart directly from tg.",
-            "value": "",
+            "value": "06f8487b-190d-4695-afa4-078b7c4e7b29",
             "required": false
         },
         "HEROKU_APP_NAME": {
             "description": "Your heroku api, you can get it from heroku account settings(optional, add only if you want to restart directly from tg.",
-            "value": "",
+            "value": "jagan-mohan-bots-3",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Log channel username, without using '@'.",
-            "value": ""
+            "value": "video_compressor_logs"
         },
         "LOG_ID": {
             "description": "Log channel `ID` (Should be Public)",
-            "value": ""
+            "value": "-1001530365800"
         },
         "ACCESS_CHANNEL": {
             "description": "Private group id to spy users.(Should be public group)",
-            "value": ""
+            "value": "-1001712123362"
         },
         "MONGODB_URI": {
             "description": "Your mongodb url here.",
-            "value": ""
+            "value": "mongodb+srv://Jagan:753753753@cluster0.zisdn.mongodb.net/?retryWrites=true&w=majority"
         },
         "FORCESUB": {
             "description": "Channel id to which u want user be force subcribed.(Should be public)",
-            "value": ""
+            "value": "-1001162256971"
         },
         "FORCESUB_UN": {
             "description": "Forcesub channel's username.",
-            "value": ""
+            "value": "@My_Test_Botz"
         },
         "BOT_UN": {
             "description": "Username of your bot.",
-            "value": ""
+            "value": "@Video_Compressor_Renamer_bot"
         }
     },
     "buildpacks": [
