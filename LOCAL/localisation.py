@@ -29,8 +29,6 @@ help_text = """**v1.4**
 
 source_text = "**Contact The Developer**"
 
-DEV = "@MR_JAGANMOHAN"
-
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
 JPG = "https://telegra.ph/file/402ef4185d6bb3e4677a8.jpg"
